@@ -36,14 +36,6 @@
 			"totalconfirmed": "48",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
-		},
-		{
-			"date": "10 March 2020",
-			"dailyconfirmed": "15",
-			"dailydeceased": "0",
-			"dailyrecovered": "1",
-			"totalconfirmed": "63",
-			"totaldeceased": "0",
-                 }
+		}
 	]
 }
