@@ -2,6 +2,15 @@
 	"cases_time_series": [
 		
 		{
+			"dailyconfirmed": "1",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "06 March ",
+			"totalconfirmed": "31",
+			"totaldeceased": "0",
+			"totalrecovered": "3"
+		},
+		{
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
