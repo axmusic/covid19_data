@@ -1,0 +1,49 @@
+{
+	"cases_time_series": [
+		
+		{
+			"date": "06 March 2020 ",
+      "dailyconfirmed": "1",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"totalconfirmed": "31",
+			"totaldeceased": "0",
+			"totalrecovered": "3"
+		},
+		{
+    	"date": "07 March 2020 ",
+			"dailyconfirmed": "3",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"totalconfirmed": "34",
+			"totaldeceased": "0",
+			"totalrecovered": "3"
+		},
+		{
+      "date": "08 March 2020 ",
+			"dailyconfirmed": "5",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"totalconfirmed": "39",
+			"totaldeceased": "0",
+			"totalrecovered": "3"
+		},
+		{
+ 			"date": "09 March 2020 ",
+			"dailyconfirmed": "9",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"totalconfirmed": "48",
+			"totaldeceased": "0",
+			"totalrecovered": "3"
+		},
+		{
+			"date": "10 March 2020",
+			"dailyconfirmed": "15",
+			"dailydeceased": "0",
+			"dailyrecovered": "1",
+			"totalconfirmed": "63",
+			"totaldeceased": "0",
+     },
+	]
+}
